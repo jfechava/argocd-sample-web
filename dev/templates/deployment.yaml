@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: jfechava/web-sample:1.0.0
+        image: jfechava/web-sample:3.0.0
         ports:
         - containerPort: 80
